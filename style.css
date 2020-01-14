@@ -1,8 +1,9 @@
 .apple {
   margin: auto;
-  width: 50%;
   border: 3px solid #585858;
   padding: 10px;
   color: #585858;
   position: center;
+  height: 150px;
+  width: 350px;
 }
